@@ -1,7 +1,6 @@
 /* Base Styles */
 
-.section-one, .section-two {
-  text-align: center;
+.section{
   font-size: 32px;
   padding: 10px;
   margin: 10px;
